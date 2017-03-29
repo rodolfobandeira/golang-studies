@@ -1,8 +1,6 @@
 # Golang-Studies
 
-Let's study some Golang! This repository is a bunch of codes I've been experimenting in order to learn Golang 
-
--
+Simple examples I've been testing while studying some Golang
 
 ### Database:
 
